@@ -22,8 +22,8 @@ It features:
 
 ## 🌐 Live Website
 
-🔗 [Check it out here](https://your-username.github.io/rohit-sharma-biography/)
-*(Replace the URL with your actual GitHub Pages link)*
+🔗 [Check it out here](https://soham-droid-pixel.github.io/RohitSharmaBio/)
+
 
 ---
 
